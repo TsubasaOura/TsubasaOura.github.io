@@ -4,7 +4,7 @@ const Home: NextPage = () => {
 
   return (
     <>
-      <h1>NUTMEG</h1>
+      <h1>gidaisai</h1>
     </>
   )
 }
