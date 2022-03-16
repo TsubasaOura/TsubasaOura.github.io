@@ -54,6 +54,11 @@
   --accent-0: #000;
 }
 
+* {
+  padding: 0;
+  margin: 0;
+}
+
 html {
   color: #504945;
   font-family: 'Inter', sans-serif;
@@ -72,6 +77,7 @@ body {
   overscroll-behavior-y: none;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  height: 100%;
   background: linear-gradient(116.82deg, #E4DCC8 0%, #EBDBB2 47.96%, #E1D4B0 100%);
   color: var(--text-primary);
   overscroll-behavior-x: none;
